@@ -1,190 +1,320 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,25:00d9ff,50:7c3aed,75:f72585,100:141E30&height=220&section=header&text=Praemjith%20P%20R&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Robotics%20Builder&descSize=17&descColor=e0e0ff&descAlignY=60&animation=twinkling" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,20:0d1b4b,45:1a0533,70:0d1b4b,100:0a0a1a&height=260&section=header&text=PRAEMJITH%20P%20R&fontSize=62&fontColor=ffffff&fontAlignY=42&stroke=00d4ff&strokeWidth=2&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Robotics%20Builder&descSize=18&descColor=a0c4ff&descAlignY=62&animation=twinkling" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=780&lines=R%26D+Intern+%40+TiHAN+%E2%80%94+IIT+Hyderabad+%F0%9F%9B%B8;Secretary+%E2%80%94+ACM+Student+Chapter+%F0%9F%8E%96%EF%B8%8F;Secretary+%E2%80%94+IEEE+Computational+Intelligence+Society;AI+%7C+Distributed+Systems+%7C+Computer+Vision+%7C+Robotics;National+%26+International+Hackathon+Champion+%F0%9F%8F%86)](https://github.com/praemjithpr)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praemjith/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://praemjithpr.github.io)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/praemjithpr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prpraemjith@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=R%26D+Intern+%40+TiHAN+%E2%80%94+IIT+Hyderabad+%F0%9F%9B%B8;Secretary+%E2%80%94+ACM+Student+Chapter+%7C+IEEE+CIS;AI+%7C+Distributed+Systems+%7C+Computer+Vision+%7C+Robotics;National+%26+International+Hackathon+Champion+%F0%9F%8F%86;CGPA+8.3+%7C+Best+Student+Award+%E2%AD%90+%7C+KPRIET)](https://github.com/praemjithpr)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=praemjithpr&label=Profile+Views&color=00d9ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/praemjithpr?label=Followers&style=flat-square&color=7c3aed)
-![GitHub Plan](https://img.shields.io/badge/GitHub-PRO-blueviolet?style=flat-square&logo=github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praemjith/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://praemjithpr.github.io)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/praemjithpr)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prpraemjith@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=praemjithpr&label=Profile+Views&color=00d4ff&style=flat-square)
+![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-7c3aed?style=flat-square&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/2026_Contributions-244-f72585?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-10%2B-fbbf24?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+## 👤 Identity
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+<table>
+<tr>
+<td valign="top" width="60%">
 
-```python
-class Praemjith:
+```yaml
+name        : Praemjith P R
+location    : Coimbatore, Tamil Nadu, India
 
-    # ─── Current Roles ────────────────────────────────────────────────────
-    roles = {
-        "R&D Intern"  : "TiHAN – IIT Hyderabad           (Jan 2026 – Present)",
-        "Secretary"   : "ACM Student Chapter",
-        "Secretary"   : "IEEE Computational Intelligence Society (CIS)",
-    }
+current_roles:
+  - R&D Intern        → TiHAN, IIT Hyderabad
+  - Secretary         → ACM Student Chapter
+  - Secretary         → IEEE Computational Intelligence Society
 
-    # ─── Academics ────────────────────────────────────────────────────────
-    degree      = "B.Tech – AI & Data Science  |  Honours: Application Development"
-    institution = "KPR Institute of Engineering & Technology"
-    cgpa        = 8.3
-    award       = "⭐ Best Student Award – First Year, KPRIET"
+education:
+  degree      : B.Tech — AI & Data Science
+  speciality  : Honours in Application Development
+  institution : KPR Institute of Engineering & Technology
+  cgpa        : 8.3 / 10
+  award       : ⭐ Best Student Award (First Year)
 
-    # ─── Engineering Domains ──────────────────────────────────────────────
-    domains = [
-        "🤖  Artificial Intelligence & Machine Learning",
-        "🏗️  Backend Engineering & Distributed Systems",
-        "👁️  Computer Vision & Deep Learning",
-        "🛸  Autonomous UAV Systems & Robotics",
-        "⚡  Real-time Data Pipelines & Event-driven Architecture",
-    ]
+engineering_domains:
+  - Artificial Intelligence & Machine Learning
+  - Backend Engineering & Distributed Systems
+  - Computer Vision & Deep Learning
+  - Autonomous UAV Systems & Robotics
+  - Real-time Data Pipelines & Event Architecture
 
-    # ─── Hall of Fame ─────────────────────────────────────────────────────
-    wins = [
-        "🥇  1st – Garuda India Hackathon 2024",
-        "🥇  1st – IEEE Global Hackathon, Hyderabad",
-        "🥇  1st – GCC Hackathon",
-        "🥇  1st – Cozmo Clench, IIT Bombay Techfest '25",
-        "🏅  SIH Finalist – Smart India Hackathon",
-    ]
-
-    contact = "prpraemjith@gmail.com"
+status      : "Open to research collaborations & opportunities"
+contact     : prpraemjith@gmail.com
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</td>
+<td valign="top" width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praemjithpr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="100%"/>
+
+<br/>
+
+![GitHub Badge](https://img.shields.io/badge/Pair_Extraordinaire-00d4ff?style=flat-square&logo=github&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/Pull_Shark-7c3aed?style=flat-square&logo=github&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/YOLO-f72585?style=flat-square&logo=github&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/Quickdraw-fbbf24?style=flat-square&logo=github&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Current Role & Experience
+## 💼 Experience
 
-<div align="center">
-
-| | Role | Organization | Period |
-|:---:|:---|:---|:---:|
-| 🔬 | **R&D Intern** | **TiHAN – IIT Hyderabad** | `Jan 2026 – Present` |
-| 🌐 | **Web Development Intern** | Techciti Technologies Pvt. Ltd. | `Jun – Jul 2025` |
-| 🛡️ | **AI Safety Trainee** | Alpha Business Solutions Pvt. Ltd. | `Jan – Feb 2025` |
-
-</div>
+<table width="100%">
+<tr>
+<td align="center" width="8%">🔬</td>
+<td width="38%"><strong>R&D Intern</strong><br/><sub>TiHAN – IIT Hyderabad</sub></td>
+<td width="30%">
+<img src="https://img.shields.io/badge/Jan_2026-Present-00d4ff?style=flat-square"/>
+</td>
+<td width="24%">
+<img src="https://img.shields.io/badge/Active-success?style=flat-square&logo=circle&logoColor=white"/>
+</td>
+</tr>
+<tr><td colspan="4"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2"/></td></tr>
+<tr>
+<td align="center">🌐</td>
+<td><strong>Web Development Intern</strong><br/><sub>Techciti Technologies Pvt. Ltd.</sub></td>
+<td><img src="https://img.shields.io/badge/Jun_2025-Jul_2025-7c3aed?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/Completed-gray?style=flat-square"/></td>
+</tr>
+<tr><td colspan="4"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="2"/></td></tr>
+<tr>
+<td align="center">🛡️</td>
+<td><strong>AI Safety Trainee</strong><br/><sub>Alpha Business Solutions Pvt. Ltd.</sub></td>
+<td><img src="https://img.shields.io/badge/Jan_2025-Feb_2025-f72585?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/Completed-gray?style=flat-square"/></td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
+<table>
+<tr>
+<td align="center" width="25%">
+
+**⟨/⟩ Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & Infrastructure
+</td>
+<td align="center" width="25%">
+
+**⚙️ Backend & Infra**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### AI / ML & Computer Vision
+</td>
+<td align="center" width="25%">
+
+**🤖 AI / ML / CV**
+
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Databases
+</td>
+<td align="center" width="25%">
+
+**🗄️ Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+
+**🔧 Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
-### 🛸 Multi-UAV Task Management System &nbsp;`R&D @ TiHAN – IIT Hyderabad`
+### 🛸 Multi-UAV Task Management System
+
+`R&D @ TiHAN – IIT Hyderabad`
 
 </div>
 
-> Distributed backend for real-time coordination of multiple UAVs — MQTT pub/sub messaging, telemetry ingestion pipelines, and REST APIs. Achieved **25% latency reduction** through pipeline-level optimization.
+<div align="center">
+<img src="https://img.shields.io/badge/Impact-25%25_Latency_Reduction-00d4ff?style=flat-square"/>
+</div>
+
+<br/>
+
+Distributed backend for real-time multi-UAV coordination using MQTT pub/sub architecture. Features telemetry ingestion pipelines, REST APIs, and event-driven task dispatch.
+
+**Key Contributions:**
+- Designed pub/sub topology for N-drone real-time sync
+- Built telemetry ingestion pipeline with data normalization
+- Reduced system latency by 25% via pipeline optimization
+- Containerized deployment with Docker
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Distributed](https://img.shields.io/badge/Distributed_Systems-7c3aed?style=flat-square)
-
----
-
-<div align="center">
-
-### 🤖 HireX — AI-Powered Recruitment Platform &nbsp;&nbsp; [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praemjithpr/HireX-AI-Powered-Recruitment-Platform)
 
 </div>
 
-> End-to-end intelligent hiring system — automated resume parsing, multi-factor candidate ranking, and structured interview pipeline management with AI-driven insights.
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🤖 HireX — AI Recruitment Platform
+
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praemjithpr/HireX-AI-Powered-Recruitment-Platform)
+
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Type-End--to--End_AI_Platform-7c3aed?style=flat-square"/>
+</div>
+
+<br/>
+
+Intelligent hiring platform with automated resume parsing, multi-factor candidate ranking engine, and structured interview pipeline — powered by AI-driven scoring and insights.
+
+**Key Features:**
+- Automated resume parsing & skill extraction
+- AI-powered candidate ranking & scoring
+- Interview pipeline management dashboard
+- PostgreSQL-backed analytics layer
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Powered-f72585?style=flat-square)
-
----
-
-<div align="center">
-
-### 🚨 RescueX — Intelligent Disaster Response UAV
 
 </div>
 
-> AI-powered UAV system for disaster scenarios — YOLO-based real-time human detection, autonomous payload delivery coordination, and live telemetry processing.
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🚨 RescueX — Disaster Response UAV
+
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Domain-Autonomous_AI_Systems-f72585?style=flat-square"/>
+</div>
+
+<br/>
+
+AI-powered UAV system engineered for disaster scenarios — real-time YOLO-based human detection, live telemetry streaming, and autonomous payload delivery coordination.
+
+**Key Features:**
+- YOLO v8 real-time human detection
+- Autonomous flight path decision engine
+- Live telemetry dashboard with alerts
+- Payload delivery coordination module
+
+<div align="center">
 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+</div>
+
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
 
-### 🔍 AI Drone-Based Crack Detection System &nbsp;&nbsp; [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praemjithpr/AI-Powered-Drone-Based-Crack-Detection-Inspection-System)
+### 🔍 AI Drone Crack Detection System
+
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praemjithpr/AI-Powered-Drone-Based-Crack-Detection-Inspection-System)
 
 </div>
 
-> Drone-based structural inspection system — detects and classifies infrastructure cracks autonomously using deep learning with high precision at scale.
+<div align="center">
+<img src="https://img.shields.io/badge/Domain-Infrastructure_Inspection-fbbf24?style=flat-square"/>
+</div>
+
+<br/>
+
+Drone-based structural inspection system using deep learning to autonomously detect, localize, and classify infrastructure cracks — built for scale and precision.
+
+**Key Features:**
+- Deep learning crack classification model
+- Drone-mounted real-time inference
+- Severity grading & geo-tagged reports
+- High-precision autonomous inspection
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black)
-![DeepLearning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
 
----
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 <div align="center">
 
@@ -192,122 +322,277 @@ class Praemjith:
 
 </div>
 
-> ML system for early disaster risk prediction — ingests multi-source sensor and weather data, triggers real-time alerts, and powers live visualization dashboards.
+<div align="center">
+<img src="https://img.shields.io/badge/Domain-ML_Early_Warning_System-00d4ff?style=flat-square"/>
+</div>
+
+<br/>
+
+ML system for early disaster risk prediction — ingests multi-source sensor and weather data streams, triggers real-time alerts, and powers live visualization dashboards.
+
+**Key Features:**
+- Multi-source sensor data ingestion
+- Risk prediction ML pipeline
+- Real-time alerting & notification system
+- Live analytics & visualization dashboard
+
+<div align="center">
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Pipelines](https://img.shields.io/badge/Data_Pipelines-00d9ff?style=flat-square)
-
----
-
-<div align="center">
-
-### ⚙️ GCC System Automation &nbsp;&nbsp; [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praemjithpr/gcc-system-automation)
 
 </div>
 
-> Automated GCC compilation and execution pipeline via scripting — eliminates manual build overhead, enforces consistent workflow standards across dev environments.
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ⚙️ GCC System Automation
+
+[![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praemjithpr/gcc-system-automation)
+
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Domain-Dev_Tooling_%26_Automation-4EAA25?style=flat-square"/>
+</div>
+
+<br/>
+
+Automated GCC compilation and execution pipeline via batch scripting — eliminates manual build overhead, enforces workflow consistency, and streamlines dev environments at scale.
+
+**Key Features:**
+- Automated multi-file compilation
+- Batch execution pipeline
+- Error aggregation & reporting
+- Cross-environment workflow standardization
+
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Automation](https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Hall of Fame
 
 <div align="center">
 
 ### 🎯 Hackathons
 
-| Medal | Event | Result |
-|:---:|:---|:---:|
-| 🥇 | GCC Hackathon | **1st Place** |
-| 🥇 | Garuda India Hackathon 2024 | **1st Place** |
-| 🥇 | IEEE Global Hackathon – Hyderabad | **1st Place** |
-| 🥈 | Adya Hackathon – KPRIET | **2nd Place** |
-| 🏅 | Smart India Hackathon (SIH) | **Finalist** |
-| 4️⃣ | ImpactX 2.0 – St. Joseph's College | **4th Place** |
+<table>
+<tr>
+<th>Medal</th><th>Event</th><th>Result</th>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>GCC Hackathon</strong></td>
+<td align="center"><img src="https://img.shields.io/badge/1st_Place-00d4ff?style=flat-square"/></td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Garuda India Hackathon 2024</strong></td>
+<td align="center"><img src="https://img.shields.io/badge/1st_Place-00d4ff?style=flat-square"/></td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>IEEE Global Hackathon – Hyderabad</strong></td>
+<td align="center"><img src="https://img.shields.io/badge/1st_Place-00d4ff?style=flat-square"/></td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><strong>Adya Hackathon – KPRIET</strong></td>
+<td align="center"><img src="https://img.shields.io/badge/2nd_Place-7c3aed?style=flat-square"/></td>
+</tr>
+<tr>
+<td align="center">🏅</td>
+<td><strong>Smart India Hackathon (SIH)</strong></td>
+<td align="center"><img src="https://img.shields.io/badge/Finalist-fbbf24?style=flat-square"/></td>
+</tr>
+<tr>
+<td align="center">4️⃣</td>
+<td><strong>ImpactX 2.0 – St. Joseph's College, Chennai</strong></td>
+<td align="center"><img src="https://img.shields.io/badge/4th_Place-gray?style=flat-square"/></td>
+</tr>
+</table>
 
 <br/>
 
 ### 🤖 Robotics & Technical Events
 
-| Medal | Event | Venue |
-|:---:|:---|:---:|
-| 🥇 | Cozmo Clench | IIT Bombay – Techfest'25 |
-| 🥇 | Jarvis'25 RC Track | CIET, Chennai |
-| 🥇 | Experliarmus – Robo Soccer | KPRIET |
-| 🥇 | Mexplode – LFR | KPRIET |
-| 🥇 | Electrophoenix'24 | – |
-| 🥈 | SpextrX'25 – Project Presentation | – |
-| 🥈 | Experliarmus – Robo Race | KPRIET |
-| 🥈 | Anokha'24 RC Race | Amrita University |
-| 🥈 | Anokha'24 Line Follower | Amrita University |
-| 🥈 | Avantaa'24 | SKCT |
-| 🥈 | Yugam'24 | KCT |
-| 🥈 | PRAYUKTI'24 | BIT |
-| 🥉 | Robo Blend | NIT Trichy – Pragyan'25 |
-| 🥉 | Robo Race – Electrophoenix'24 | – |
-| 5️⃣ | Aqua Showdown | IIT Madras |
+<table>
+<tr>
+<th>Medal</th><th>Event</th><th>Venue</th>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Cozmo Clench</strong></td>
+<td>IIT Bombay – Techfest'25</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Jarvis'25 RC Track</strong></td>
+<td>CIET, Chennai</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Experliarmus – Robo Soccer</strong></td>
+<td>KPRIET</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Mexplode – Line Follower Robot</strong></td>
+<td>KPRIET</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Electrophoenix'24</strong></td>
+<td>—</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><strong>SpextrX'25 – Project Presentation</strong></td>
+<td>—</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><strong>Experliarmus – Robo Race</strong></td>
+<td>KPRIET</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><strong>Anokha'24 RC Race</strong></td>
+<td>Amrita University</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><strong>Anokha'24 Line Follower</strong></td>
+<td>Amrita University</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><strong>Avantaa'24</strong></td>
+<td>SKCT</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><strong>Yugam'24</strong></td>
+<td>KCT</td>
+</tr>
+<tr>
+<td align="center">🥈</td>
+<td><strong>PRAYUKTI'24</strong></td>
+<td>BIT</td>
+</tr>
+<tr>
+<td align="center">🥉</td>
+<td><strong>Robo Blend</strong></td>
+<td>NIT Trichy – Pragyan'25</td>
+</tr>
+<tr>
+<td align="center">🥉</td>
+<td><strong>Robo Race – Electrophoenix'24</strong></td>
+<td>—</td>
+</tr>
+<tr>
+<td align="center">5️⃣</td>
+<td><strong>Aqua Showdown</strong></td>
+<td>IIT Madras</td>
+</tr>
+<tr>
+<td align="center">5️⃣</td>
+<td><strong>Manusys'24</strong></td>
+<td>Anna University</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=praemjithpr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=f72585&text_color=c9d1d9&ring_color=7c3aed" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praemjithpr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=praemjithpr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=f72585&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=praemjithpr&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=f72585&currStreakLabel=00d4ff&sideLabels=7c3aed&dates=c9d1d9"/>
+
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=praemjithpr&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=f72585&currStreakLabel=00d9ff&sideLabels=7c3aed&dates=c9d1d9" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praemjithpr&bg_color=0d1117&color=00d4ff&line=7c3aed&point=f72585&area=true&area_color=7c3aed&hide_border=true&radius=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praemjithpr&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praemjithpr&bg_color=0d1117&color=00d9ff&line=7c3aed&point=f72585&area=true&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=praemjithpr&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </div>
 
 ---
 
 ## 🎓 Education
 
-<div align="center">
+<table align="center" width="90%">
+<tr>
+<th>Degree</th>
+<th>Institution</th>
+<th>Score</th>
+</tr>
+<tr>
+<td>
+<strong>B.Tech – AI & Data Science</strong><br/>
+<sub>Honours in Application Development</sub>
+</td>
+<td>KPR Institute of Engineering & Technology</td>
+<td align="center">
+<img src="https://img.shields.io/badge/CGPA-8.3%2F10-00d4ff?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td><strong>Higher Secondary (12th)</strong></td>
+<td>Raja Matric Hr. Sec. School, Rameshwaram</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Score-95.5%25-7c3aed?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td><strong>Secondary (10th)</strong></td>
+<td>Raja Matric Hr. Sec. School, Rameshwaram</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Score-95.5%25-f72585?style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
-| Degree | Institution | Score |
-|:---|:---|:---:|
-| B.Tech – AI & Data Science *(Honours – Application Development)* | KPR Institute of Engineering & Technology | **CGPA 8.3** |
-| Higher Secondary (12th) | Raja Matric Hr. Sec. School, Rameshwaram | **95.5%** |
-| Secondary (10th) | Raja Matric Hr. Sec. School, Rameshwaram | **95.5%** |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Together
+### 🤝 Let's Build Something That Matters
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praemjith/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://praemjithpr.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prpraemjith@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/praemjithpr)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praemjith/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://praemjithpr.github.io)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prpraemjith@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,30:7c3aed,60:f72585,100:00d9ff&height=140&section=footer&text=Building+intelligent+systems+that+matter&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,25:0d1b4b,50:1a0533,75:f72585,100:00d4ff&height=150&section=footer&text=Building+intelligent+systems+that+matter&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
 
 </div>
