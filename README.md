@@ -1,22 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7c3aed&height=200&section=header&text=Praemjith%20P%20R&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20R%26D%20Intern%20%40%20IIT%20Hyderabad&descAlignY=58&descSize=16&descColor=a0c4ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7c3aed&height=200&section=header&text=Praemjith%20P%20R&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Robotics%20Enthusiast&descAlignY=58&descSize=16&descColor=a0c4ff&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+multi-UAV+systems+%40+IIT+Hyderabad+%F0%9F%9B%B8;Distributed+backends+%7C+Real-time+pipelines+%7C+Low-latency+APIs;1st+Place+%E2%80%94+Garuda+India+Hackathon+%F0%9F%8F%86;244+contributions+in+2026+and+counting+%F0%9F%94%A5)](https://github.com/praemjithpr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=R%26D+Intern+%40+TiHAN+%E2%80%93+IIT+Hyderabad+%F0%9F%9B%B8;Secretary+%E2%80%93+ACM+%26+IEEE+CIS+Student+Chapters+%F0%9F%8E%96%EF%B8%8F;AI+%7C+Distributed+Systems+%7C+Computer+Vision+%7C+Robotics;Multiple+National+%26+International+Hackathon+Winner+%F0%9F%8F%86)](https://github.com/praemjithpr)
 
 <br/>
 
 <a href="https://www.linkedin.com/in/praemjith/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://praemjithpr.github.io">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://leetcode.com/praemjithpr">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+&nbsp;
 <a href="mailto:prpraemjith@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -31,23 +34,55 @@
 
 ---
 
-## `whoami`
+## 👨‍💻 About Me
 
 ```python
 class Praemjith:
-    name       = "Praemjith P R"
-    role       = "AI & Backend Engineer"
-    intern     = "R&D @ TiHAN – IIT Hyderabad"
-    degree     = "B.Tech AI & Data Science (Honours) | CGPA 8.3 | KPRIET"
-    focus      = ["Distributed Systems", "Real-time Pipelines", "Low-Latency APIs", "Computer Vision"]
-    hackathons = ["🥇 Garuda India Hackathon", "🥇 IEEE Global Hackathon – Hyderabad",
-                  "🥇 GCC Hackathon", "🏅 SIH Finalist"]
-    robotics   = ["🥇 Cozmo Clench – IIT Bombay Techfest", "🥇 Experliarmus Robo Soccer",
-                  "🏅 Robo Blend – NIT Trichy Pragyan"]
-    leadership = ["Secretary – ACM Student Chapter", "Secretary – IEEE CIS Chapter"]
-    awards     = ["Best Student Award – KPRIET (First Year)"]
-    contact    = "prpraemjith@gmail.com"
+    name        = "Praemjith P R"
+
+    # Current Roles
+    roles       = [
+        "R&D Intern         → TiHAN, IIT Hyderabad  (Jan 2026 – Present)",
+        "Secretary          → ACM Student Chapter",
+        "Secretary          → IEEE Computational Intelligence Society (CIS)",
+    ]
+
+    # Academic Background
+    degree      = "B.Tech – AI & Data Science (Honours in Application Development)"
+    institution = "KPR Institute of Engineering & Technology"
+    cgpa        = 8.3
+    award       = "Best Student Award – First Year, KPRIET"
+
+    # Engineering Focus
+    domains     = [
+        "AI & Machine Learning",
+        "Backend Engineering & Distributed Systems",
+        "Computer Vision & Robotics",
+        "Real-time Data Pipelines",
+        "Autonomous UAV Systems",
+    ]
+
+    # Notable Wins
+    highlights  = [
+        "🥇 1st – Garuda India Hackathon 2024",
+        "🥇 1st – IEEE Global Hackathon, Hyderabad",
+        "🥇 1st – GCC Hackathon",
+        "🥇 1st – Cozmo Clench, IIT Bombay Techfest'25",
+        "🏅 SIH Finalist (Smart India Hackathon)",
+    ]
+
+    contact     = "prpraemjith@gmail.com"
 ```
+
+---
+
+## 💼 Experience
+
+| | Role | Organization | Duration |
+|---|------|--------------|----------|
+| 🔬 | **R&D Intern** | TiHAN – IIT Hyderabad | Jan 2026 – Present |
+| 🌐 | **Web Development Intern** | Techciti Technologies Pvt. Ltd. | Jun 2025 – Jul 2025 |
+| 🛡️ | **AI Safety Trainee** | Alpha Business Solutions Pvt. Ltd. | Jan 2025 – Feb 2025 |
 
 ---
 
@@ -58,9 +93,9 @@ class Praemjith:
 <td width="50%" valign="top">
 
 ### 🛸 Multi-UAV Task Management System
-> **R&D @ TiHAN – IIT Hyderabad**
+**R&D @ TiHAN – IIT Hyderabad**
 
-Distributed backend coordinating multiple UAVs in real time. MQTT-based pub/sub communication, telemetry pipelines, and REST APIs with **25% latency reduction** via pipeline optimization.
+Distributed backend for real-time coordination of multiple UAVs. MQTT pub/sub messaging, telemetry ingestion pipelines, and REST APIs — achieved **25% latency reduction** through pipeline optimization.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -70,10 +105,10 @@ Distributed backend coordinating multiple UAVs in real time. MQTT-based pub/sub 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 HireX — AI Recruitment Platform
-> **[View Repo →](https://github.com/praemjithpr/HireX-AI-Powered-Recruitment-Platform)**
+### 🤖 HireX — AI-Powered Recruitment Platform
+**[View Repository →](https://github.com/praemjithpr/HireX-AI-Powered-Recruitment-Platform)**
 
-End-to-end AI-powered hiring platform — automated resume parsing, candidate ranking, and interview pipeline management.
+End-to-end intelligent hiring platform with automated resume parsing, candidate ranking engine, and structured interview pipeline management.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -84,22 +119,21 @@ End-to-end AI-powered hiring platform — automated resume parsing, candidate ra
 <tr>
 <td width="50%" valign="top">
 
-### 🚨 RescueX — Disaster Response UAV
-> AI-powered UAV system for disaster scenarios
-
-YOLO-based human detection, real-time telemetry processing, and autonomous payload delivery coordination.
+### 🚨 RescueX — Intelligent Disaster Response UAV
+AI-powered UAV system for disaster scenarios — YOLO-based human detection, autonomous payload delivery coordination, and real-time telemetry processing.
 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=opencv&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 AI Drone Crack Detection
-> **[View Repo →](https://github.com/praemjithpr/AI-Powered-Drone-Based-Crack-Detection-Inspection-System)**
+### 🔍 AI Drone Crack Detection System
+**[View Repository →](https://github.com/praemjithpr/AI-Powered-Drone-Based-Crack-Detection-Inspection-System)**
 
-Drone-based infrastructure inspection using computer vision — detects structural cracks autonomously with high accuracy.
+Drone-based structural inspection system using deep learning to autonomously detect and classify infrastructure cracks with high precision.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -111,9 +145,7 @@ Drone-based infrastructure inspection using computer vision — detects structur
 <td width="50%" valign="top">
 
 ### 📊 SmartPredict — Disaster Prediction Engine
-> ML-powered early warning system
-
-Ingests sensor and weather data to predict disaster risk, with real-time alerting and live visualization dashboards.
+ML system ingesting multi-source sensor and weather data for early disaster risk prediction, with real-time alerting and live visualization dashboards.
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -123,9 +155,9 @@ Ingests sensor and weather data to predict disaster risk, with real-time alertin
 <td width="50%" valign="top">
 
 ### ⚙️ GCC System Automation
-> **[View Repo →](https://github.com/praemjithpr/gcc-system-automation)**
+**[View Repository →](https://github.com/praemjithpr/gcc-system-automation)**
 
-Automated GCC compilation and execution pipeline using batch scripting — reduces build overhead and streamlines dev workflows.
+Automated GCC compilation and execution pipeline via batch scripting — eliminates manual build overhead and enforces consistent workflow standards.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -177,22 +209,22 @@ Automated GCC compilation and execution pipeline using batch scripting — reduc
 ## 🏆 Achievements
 
 <details>
-<summary><b>🎯 Hackathons (click to expand)</b></summary>
+<summary><b>🎯 Hackathons</b></summary>
 <br/>
 
 | Prize | Event |
 |-------|-------|
-| 🥇 1st | GCC Hackathon |
-| 🥇 1st | Garuda India Hackathon 2024 |
-| 🥇 1st | IEEE Global Hackathon – Hyderabad |
-| 🥈 2nd | Adya Hackathon – KPRIET |
+| 🥇 1st Place | GCC Hackathon |
+| 🥇 1st Place | Garuda India Hackathon 2024 |
+| 🥇 1st Place | IEEE Global Hackathon – Hyderabad |
+| 🥈 2nd Place | Adya Hackathon – KPRIET |
 | 🏅 Finalist | Smart India Hackathon (SIH) |
-| 4th | ImpactX 2.0 – St. Joseph's College, Chennai |
+| 4th Place | ImpactX 2.0 – St. Joseph's College, Chennai |
 
 </details>
 
 <details>
-<summary><b>🤖 Robotics & Technical Events (click to expand)</b></summary>
+<summary><b>🤖 Robotics & Technical Events</b></summary>
 <br/>
 
 | Prize | Event | Venue |
@@ -220,8 +252,9 @@ Automated GCC compilation and execution pipeline using batch scripting — reduc
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praemjithpr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praemjithpr&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praemjithpr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praemjithpr&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
 </div>
 
 <div align="center">
@@ -229,30 +262,8 @@ Automated GCC compilation and execution pipeline using batch scripting — reduc
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praemjithpr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=praemjithpr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </div>
-
----
-
-## 💼 Experience
-
-<table>
-<tr>
-<td>🔬 <b>R&D Intern</b></td>
-<td><b>TiHAN – IIT Hyderabad</b></td>
-<td>Jan 2026 – Present</td>
-</tr>
-<tr>
-<td>🌐 <b>Web Dev Intern</b></td>
-<td><b>Techciti Technologies Pvt. Ltd.</b></td>
-<td>Jun 2025 – Jul 2025</td>
-</tr>
-<tr>
-<td>🛡️ <b>AI Safety Trainee</b></td>
-<td><b>Alpha Business Solutions Pvt. Ltd.</b></td>
-<td>Jan 2025 – Feb 2025</td>
-</tr>
-</table>
 
 ---
 
@@ -260,7 +271,7 @@ Automated GCC compilation and execution pipeline using batch scripting — reduc
 
 | Degree | Institution | Score |
 |--------|-------------|-------|
-| B.Tech – AI & Data Science *(Honours – App Dev)* | KPR Institute of Engineering & Technology | **CGPA 8.3** |
+| B.Tech – AI & Data Science *(Honours – Application Development)* | KPR Institute of Engineering & Technology | **CGPA 8.3** |
 | Higher Secondary (12th) | Raja Matric Hr. Sec. School, Rameshwaram | **95.5%** |
 | Secondary (10th) | Raja Matric Hr. Sec. School, Rameshwaram | **95.5%** |
 
@@ -268,6 +279,6 @@ Automated GCC compilation and execution pipeline using batch scripting — reduc
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d9ff,100:0d1117&height=120&section=footer&text=⚡+Building+low-latency+systems%2C+one+pipeline+at+a+time&fontSize=14&fontColor=ffffff&fontAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d9ff,100:0d1117&height=130&section=footer&text=Building+intelligent+systems+that+matter&fontSize=16&fontColor=ffffff&fontAlignY=60&animation=fadeIn" />
 
 </div>
